@@ -1,5 +1,5 @@
 # PRIMER PROYECTO LENGUAJE
-## FASE 1:
+## FASE 1: Planificación
 
 
 
